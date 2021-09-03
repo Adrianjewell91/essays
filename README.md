@@ -1,4 +1,14 @@
 # essays
+Banks vs Credit Card Processors
+
+There is a bug in the financial industry, and it exists because banks are different from credit card companies. Both however, are necessary. For example, it is the bank’s responsibility to block a charge, but it is the credit card company’s responsibility to block the merchant (those are two different things). Because of this, it is possible for a merchant to still mischarge a customer after the the bank bolcks the charge. This is because all that the merchant has to do to successful re-charge the customer is change the purchase description. Naturally, this was a surprise to hear because this division of concepts made no sense. However, it becamse clear in time, but not with out a second phone call, and that is less preferable to only needing one.
+
+For a little back story, the occasion was my discovery that a scammer had tricked me into signing up for a worthless subscription. That it was a subscription made the situation more complex.  Over the course of my phone calls, it became clear that the meaning of ‘merchant’ depended on the person talking with me over the phone. For bankers, was a row on the balance sheet, and for the credit card representatives, it was some sort of an established relationship, or maybe it was just the metadata. Because of this distinction, the banks can only do so much, so credit card company has to step in as well. 
+
+This time around, it didn’t that the credit card company knew this. For instance, my inquiry got redirected three times between the two entities, and during the calls, there appeared to be no direct knowledge of this distinction between them. After all was said and done, the only person who knew about it was the first banking representative. That was even interesting in itself because he gave me valuable knowledge. Yes, it is true that bank and cc companies (also called ‘processors’ I have learned) are distinctly different, and for important reasons. It was surprising that this particular fact about the banking industry had escaped my own understanding for so long, along with many others, I am sure.
+
+Thanfully, everything was taken care of; the banks handled the communication with the payment processor. If there was some way to have avoided all of that confusion, then here is a great business opportunity. 
+
 
 Machines
 
