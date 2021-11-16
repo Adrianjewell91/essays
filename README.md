@@ -5,7 +5,7 @@ It has been a great pleasure to have read 790 out of 1200 pages to date of this 
 
 One of the most interesting topics is the history of money. He covers it from several angles, but the most enjoyable one is the history of banks. There is, for example, the history of many banks in Europe and the United States, how and why they came to be, and the instruments of their implementation. For example, there is the history of bank money and how it came to substitute for exchange notes. This one is particularly interesting because it highlights a tool created by banks to solve a problem, that being the issue of circulating metal currency more easily, among other things. And this is just one of the many things described in the history of banking. At the very least, it puts the current developments of money in perspective (things like crypto or just electronic money in general), and really makes one wonder where things are going. 
 
-The general trajectory is one of moving from metal to paper, but it wasn't a smooth path. First, there s
+The general trajectory is one of moving from metal to paper, but it wasn't a smooth path. First, there were many banks, and they issued all of there exchange notes. Then there was bank money. Somewhere along the way, there were many banks in between that various entities created to solve certain economic problems, such as the Bank of Scotland, and those were successful to vary degrees. This particular bank is of great interest because its story highlights how much money is a tool
 
 
 The difference between Banks and Credit Card Processors
