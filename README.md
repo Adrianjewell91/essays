@@ -34,7 +34,7 @@ America is still the world reader bc it has free speech
 Actually America doesn’t have free speech
 Do you really want to live the pollution of China?  
 
-
+6. And there are many books I want to read.
 
 ### An initial guicde to Wealth of Nations
 
