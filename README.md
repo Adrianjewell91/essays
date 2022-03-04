@@ -1,4 +1,100 @@
 # essays
+
+### All the things
+
+"The master does not seek fulfillment" but I still feel the desire for it, in many ways. There are many projects that I wish I could embark upon and complete, and hopefully they would be of value to the world, and perhaps they are being pursued at length now. They are listed below here. 
+
+1. An annotation of Wealth of Nations, containing all the interesting examples and digressions that aren't expressed in the table of contents.
+2. An investigation with the neural mechanisms of insight learning, and original contribution to that field. It is so mysterious to me. 
+3. A better piano that combines with electronic music to improvise. 
+4. An AI that can improvise and jam. 
+5. A dialog AI, which is my latest idea, and I'm writing about it, something that can find news articles and use them to create a dialogue like below.
+
+ex.
+Biden denounces the Russian invasion.
+Western countries still buy oil from Russia.
+Russia and the Russian government are not the same thing. 
+Russian oligarchs support the Russian invasion, says a recent interview.
+Government is not an extension of the will of the people.
+Government is of the people, for the people, by the people
+Russia’s government is not like that. 
+
+ex. 
+FDL is better than SKU worker bc it completes the data 
+Fix SAC is better because it is more expensive to run FDL 
+FDL is actually cheaper because it saves us management resources
+Fix SAC is better because we gotta fix it anyway, then lets see 
+At least lets not rewrite in Java given the new things. 
+
+ex. 
+China is the world leader bc of many reasons
+America is still the largest GDP 
+China is probably larger bc of hidden population 
+America is still the world reader bc it has free speech 
+Actually America doesn’t have free speech
+Do you really want to live the pollution of China?  
+
+
+
+### An initial guicde to Wealth of Nations
+
+The guide to Adam Smith’s Wealth of Nations. 
+
+WON as a History Text. 
+WON as a philosophical text. 
+
+As it turns out, the table of contents does not capture the breadth of interesting examples for his arguments. Therefore, I annotated the table of contents with references to some of them that I found interesting. They are given only as a general reference with the aim to spark the interest of the reader to pursue the knowledge in that chapter.
+
+Additionally, some topics will constitute a slight digression. In the chapter about education for instance, Mr. Smith has some things to say about the nature of music, which of course is related to education - as music is typically a school subject - but might also be readable outside of the context of education policy, which is the subject of that chapter. However, it is these very things that make the book so colorful and interesting. 
+
+
+Thoughts on music as part of an education. 
+Thoughts on the fruitlessness of young people studying abroad. 
+Thoughts on the history of banking. - how to create money by taking loans from multiple banks. 
+Thoughts on the futility of trying to make money at some things (back then it was fishing). 
+How a pin needle was made (all the steps).
+
+
+1. Preface
+2. Editor's Introduction
+3. B.I, Introduction and Plan of the Work
+4. B.I, Ch.1, Of the Division of Labor
+5. B.I, Ch.2, Of the Principle which gives Occasion to the Division of Labour
+6. B.I, Ch.3, That the Division of Labour is Limited by the Extent of the Market
+7. B.I, Ch.4, Of the Origin and Use of Money
+8. B.I, Ch.5, Of the Real and Nominal Price of Commodities
+9. B.I, Ch.6, Of the Component Parts of the Price of Commodities
+10. B.I, Ch.7, Of the Natural and Market Price of Commodities
+11. B.I, Ch.8, Of the Wages of Labour
+12. B.I, Ch.9, Of the Profits of Stock
+13. B.I, Ch.10, Of Wages and Profit in the Different Employments of Labour and Stock
+14. B.I, Ch.11, Of the Rent of Land
+15. B.II, Introduction
+16. B.II, Ch.1, Of the Division of Stock
+17. B.II, Ch.2, Of Money Considered as a particular Branch of the General Stock of the Society
+18. B.II, Ch.3, Of the Accumulation of Capital, or of Productive and Unproductive Labour
+19. B.II, Ch.4, Of Stock Lent at Interest
+20. B.II, Ch.5, Of the Different Employment of Capitals
+21. B.III, Ch.1, Of the Natural Progress of Opulence
+22. B.III, Ch.2, Of the Discouragement of Agriculture in the Ancient State of Europe after the Fall of the Roman Empire
+23. B.III, Ch.3, Of the Rise and Progress of Cities and Towns
+24. B.III, Ch.4, How the Commerce of the Towns Contributed to the Improvement of the Country
+25. B.IV, Introduction
+26. B.IV, Ch.1, Of the Principle of the Commercial or Mercantile System
+27. B.IV, Ch.2, Of Restraints upon the Importation from Foreign Countries
+28. B.IV, Ch.3, Of the extraordinary Restraints upon the Importation of Goods of almost all Kinds
+29. B.IV, Ch.4, Of Drawbacks
+30. B.IV, Ch.5, Of Bounties
+31. B.IV, Ch.6, Of Treaties of Commerce
+32. B.IV, Ch.7, Of Colonies
+33. B.IV, Ch.8, Conclusion of the Mercantile System
+34. B.IV, Ch.9, Of the Agricultural Systems, or of those Systems of Political Oeconomy, which Represent the Produce of Land
+35. B.V, Ch.1, Of the Expences of the Sovereign or Commonwealth
+36. B.V, Ch.2, Of the Sources of the General or Public Revenue of the Society
+37. B.V, Ch.3, Of Public Debts
+38. Appendix
+
+
 Initial thoughts on "The Wealth of Nations" 
 
 It has been a great pleasure to have read 790 out of 1200 pages to date of this historic work. I use pages because there's quite a lot of them, and in some way, my progress is measured most by this metric than any other. That being said, there are many topics of great interest, and they all deserve a mention. Some of them, I will cover here, and hopefully I will cover more of them later. 
